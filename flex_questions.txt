@@ -1,5 +1,7 @@
 * Inventory
-- issue: When I try to select a model as a replacement, even if there are
-  serial models that are in stock, it will still show up as missing. Example,
-add a serial fader to a quote, make it a PS, then try to susbtitute in CL5
+** Replacements showing up with incorrect inventory amount
+- issue: When I try to select a model as a replacement, even if there are serial models that are in stock, it will still show up as missing. 
+- reproduce: ,add a serial fader to a quote, make it a PS, then try to susbtitute in CL5
 24+8 Fader. It will still show as '-1'.
+- workaround: Just deleting without going through the replacement utility.
+**  
