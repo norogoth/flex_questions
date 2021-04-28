@@ -4,4 +4,6 @@
 - reproduce: ,add a serial fader to a quote, make it a PS, then try to susbtitute in CL5
 24+8 Fader. It will still show as '-1'.
 - workaround: Just deleting without going through the replacement utility.
-**  
+** How to assign to truck? - SOLVED
+If I wanted to assign my prepped manifest to a port or a truck, how would I do that? ANSWER: Treat them as containers. Source: https://helpcenter.flexrentalsolutions.com/hc/en-us/community/posts/1500000060881-Flex4-Sending-Out-Rental-Equipment
+** How do I treat a parent of serializable units as one unit versus a category with multiple instances? "Serialized Package inventory models are most often viewed as cases or containers that contain permanent items that should not be available for individual rental."
